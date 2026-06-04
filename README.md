@@ -1,6 +1,6 @@
 # 🍴 Swiggy Sales Analysis Dashboard  
 
-## 📌 Project Objective  
+## 📌 Project Objective   
 The **Swiggy Sales Analysis Dashboard** is designed to provide an end-to-end analysis of Swiggy’s business performance using **Excel, Power Query, DAX, and Power BI**.  
 
 The goal of this project is to deliver actionable insights into:  
