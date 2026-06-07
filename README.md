@@ -351,7 +351,7 @@ In short, this project transforms disconnected data into **strategic business in
 **Data Analyst**
 
 📧 **kamalnayantiwary73@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/kamal-nayan-tiwary-2022-2026-/)  
+🔗 [LinkedIn](http://www.linkedin.com/in/kamalnayantiwary)  
 
 ---
 
